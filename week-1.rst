@@ -19,23 +19,24 @@ Each day (~1.5 hrs):
 Schedule
 --------
 
-+------------+----------------------------+------------------------------+------------------------------+
-| Date       | DSA / System Design        | JavaScript / React           | SQL                          |
-+============+============================+==============================+==============================+
-| Mon, Jun 30| Arrays: Sliding Window     | JS: var, let, const, hoisting| SELECT, WHERE, AND, OR      |
-+------------+----------------------------+------------------------------+------------------------------+
-| Tue, Jul 1 | System Design: Load Balancer| JS Functions & Arrow Syntax  | ORDER BY, LIMIT, LIKE       |
-+------------+----------------------------+------------------------------+------------------------------+
-| Wed, Jul 2 | Hash Maps + Frequency Count| React: JSX & Functional Comp.| GROUP BY, COUNT              |
-+------------+----------------------------+------------------------------+------------------------------+
-| Thu, Jul 3 | System Design: Caching     | React: Props vs State        | INNER JOIN vs LEFT JOIN      |
-+------------+----------------------------+------------------------------+------------------------------+
-| Fri, Jul 4 | Two Pointers Technique     | React: useState + useEffect  | Nested Queries, WHERE EXISTS|
-+------------+----------------------------+------------------------------+------------------------------+
-| Sat, Jul 5 | Mixed DSA Practice Set     | React: Simple Todo App (UI)  | Practice SQL Set (3 queries)|
-+------------+----------------------------+------------------------------+------------------------------+
-| Sun, Jul 6 | System Design Review + Notes| React Debugging Tools        | Query Optimization Intro     |
-+------------+----------------------------+------------------------------+------------------------------+
++------------+------------------------------+-------------------------------+------------------------------+
+| Date       | DSA / System Design          | JavaScript / React            | SQL                          |
++============+==============================+===============================+==============================+
+| Mon, Jun 30| Sliding Window (Arrays)      | var, let, const, hoisting     | SELECT, WHERE, AND, OR       |
++------------+------------------------------+-------------------------------+------------------------------+
+| Tue, Jul 1 | Load Balancer (SD)           | JS Functions & Arrow Syntax   | ORDER BY, LIMIT, LIKE        |
++------------+------------------------------+-------------------------------+------------------------------+
+| Wed, Jul 2 | Hash Maps + Frequency Count  | JSX & Functional Components   | GROUP BY, COUNT              |
++------------+------------------------------+-------------------------------+------------------------------+
+| Thu, Jul 3 | Caching (System Design)      | Props vs State                | INNER JOIN vs LEFT JOIN      |
++------------+------------------------------+-------------------------------+------------------------------+
+| Fri, Jul 4 | Two Pointers Technique       | useState + useEffect Hooks    | Nested Queries, WHERE EXISTS |
++------------+------------------------------+-------------------------------+------------------------------+
+| Sat, Jul 5 | Mixed DSA Practice Set       | Build a simple Todo UI        | Practice Set (3 queries)     |
++------------+------------------------------+-------------------------------+------------------------------+
+| Sun, Jul 6 | SD Review + Summary Notes    | React Debugging Tools         | Query Optimization Basics    |
++------------+------------------------------+-------------------------------+------------------------------+
+
 
 Goals for the Week
 ------------------
